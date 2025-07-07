@@ -1,0 +1,12 @@
+{
+  "type": "micro",
+  "wake_word": "alisa",
+  "author": "Gadelshin Arthur",
+  "website": "https://github.com/arturgadelshin/tflite_json",
+  "model": "alisa.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
+  }
+}
