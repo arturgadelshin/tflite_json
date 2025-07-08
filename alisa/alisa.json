@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "alisa",
   "author": "arturgadelshin",
-  "website": "https://github.com/arturgadelshin",
+  "website": "https://raw.githubusercontent.com/arturgadelshin/tflite_json/refs/heads/main/alisa/alisa.json",
   "model": "https://raw.githubusercontent.com/arturgadelshin/tflite_json/refs/heads/main/alisa/alisa.tflite",
   "version": 2,
   "trained_languages": ["en"],
