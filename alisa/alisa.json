@@ -10,7 +10,9 @@
     "probability_cutoff": 0.5,
     "sliding_window_size": 5,
     "feature_step_size": 10,
-     "tensor_arena_size": 18000,
-    "minimum_esphome_version": "2024.7.0"
+    "tensor_arena_size": 25000,
+    "input_buffers": 1,
+    "output_buffers": 1,
+    "minimum_esphome_version": "2024.7.0",
   }
 }
