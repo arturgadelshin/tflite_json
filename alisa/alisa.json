@@ -2,15 +2,14 @@
   "type": "micro",
   "wake_word": "alisa",
   "author": "arturgadelshin",
-  "website": "https://raw.githubusercontent.com/arturgadelshin/tflite_json/refs/heads/main/alisa/alisa.json",
-  "model": "https://raw.githubusercontent.com/arturgadelshin/tflite_json/refs/heads/main/alisa/alisa.tflite",
-  "trained_languages": ["en"],
+  "website": "https://github.com/arturgadelshin/tflite_json/blob/main/alisa/alisa.json",
+  "model": "https://raw.githubusercontent.com/arturgadelshin/tflite_json/main/alisa/alisa.tflite",
+  "trained_languages": ["ru"],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.63,
-    "sliding_window_size": 10,
+    "probability_cutoff": 0.5,
+    "sliding_window_size": 5,
     "feature_step_size": 10,
-    "tensor_arena_size": 18000,
-    "minimum_esphome_version": "2024.4.12",
+    "tensor_arena_size": 22860,
+    "minimum_esphome_version": "2024.4.0"  // Упростил версию
   }
-}
