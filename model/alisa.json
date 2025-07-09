@@ -8,7 +8,7 @@
   "website": "https://github.com/arturgadelshin/tflite_json/blob/main/model/",
   "micro": {
     "feature_step_size": 10,
-    "tensor_arena_size": 20000,
+    "tensor_arena_size": 15000,
     "probability_cutoff": 0.5,
     "sliding_window_size": 5,
     "minimum_esphome_version": "2024.7.0"
