@@ -12,5 +12,5 @@
     "probability_cutoff": 0.5,
     "sliding_window_size": 5,
     "minimum_esphome_version": "2024.12.4",
-  }
+  },
 }
