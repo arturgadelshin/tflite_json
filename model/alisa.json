@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "model": "alisa.tflite",
+  "model": "./alisa.tflite",
   "author": "arturgadelshin",
   "wake_word": "alisa",
   "version": 2,
