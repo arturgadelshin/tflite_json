@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "model": "alisa.tflite",
+  "model": "https://github.com/arturgadelshin/tflite_json/blob/main/model/alisa.tflite",
   "author": "arturgadelshin",
   "wake_word": "alisa",
   "version": 2,
