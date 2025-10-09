@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Okay Nabu",
+  "wake_word": "Okay Nabu 1",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
   "model": "okay_nabu.tflite",
